@@ -1,0 +1,1 @@
+A simple example of use `puppeteer` and `cheerio` to fetch html element content.
